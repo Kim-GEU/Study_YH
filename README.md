@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/U7tK0tK.gif" width="100%" alt="cyber galaxy banner">
+  <img src="https://i.imgur.com/JUucwzu.mp4" width="100%" alt="cyber galaxy banner">
 </p>
 
 <h1 align="center">
