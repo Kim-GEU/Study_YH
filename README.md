@@ -4,8 +4,9 @@
   <img src="https://your-cyberpunk-banner.com/banner.gif" alt="cyberpunk banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+Neon+Vault.;Designer+of+the+Digital+Soul.;Injecting+Code+into+Style.">
+<h1 align="center" style="background-color:#000000; padding: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Welcome+to+YH+Study+Note.;Director+%26+Engineer+Maker+Artist." alt="Yellow Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF3C3C&center=true&vCenter=true&width=500&lines=New+/+Start+/+Game+/+idea." alt="Red Typing" />
 </h1>
 
 <p align="center">
