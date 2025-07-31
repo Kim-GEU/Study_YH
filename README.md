@@ -10,8 +10,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f0ff,100:151515&height=120&section=header&text=𝘊𝘺𝘣𝘦𝘳%20𝘔𝘦𝘮𝘰𝘳𝘺%20𝘉𝘢𝘴𝘦&fontSize=30&fontColor=fff">
+  <img src="https://i.imgur.com/U7tK0tK.gif" width="100%" alt="cyber galaxy banner">
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=🚀+KimYeonHo+/+GEU+/+Page;" alt="Typing SVG" />
+</h1>
+
 
 ---
 
